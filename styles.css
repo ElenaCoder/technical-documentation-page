@@ -26,6 +26,9 @@ h1 {
     font-weight: thin;
     background-color: #4d4e53;
 }
+#navbar header{
+    display:none;
+}
 
 
 #navbar ul {
@@ -64,7 +67,7 @@ h1 {
   }
 
 
-  #main-doc h2 {
+  #main-doc header {
     text-align: left;
     margin: 0px;
     color: black;
